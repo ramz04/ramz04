@@ -1,7 +1,7 @@
 <h1>Hi👋 I'm Abdul-Rahman Wunpini Ataau-Rahman</h1>
 
 <p>
-  Software Engineer · Solution Analyst · Data Analyst
+  <strong>Software Engineer · Solution Analyst · Data Analyst</strong>
 </p>
 
 <p>
